@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/CedricMrt/CedricMrt/github/Animation.gif" alt="Hi, I'm Cédric 👋 I'm a 🚀 French developer 🚀>
+</p>
+
 ## Hi there 👋
 
 <!--
